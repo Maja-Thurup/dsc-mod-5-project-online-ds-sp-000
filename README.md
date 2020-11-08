@@ -9,7 +9,7 @@
 - Actual [project](https://github.com/Maja-Thurup/dsc-mod-5-project-online-ds-sp-000/blob/master/student.ipynb)
 
 Project also contains visualization functions that sort features by average movie profit
-![]()(https://imgur.com/a/xlcBmut) 
+![](https://imgur.com/a/xlcBmut) 
 
 
 
